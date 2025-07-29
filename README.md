@@ -1,2 +1,5 @@
 # Sweetener Project
-This repository will be used (by me) for my projects (the serious one). Anyone on the internet can see this repository, but why would you?
+This repository will be used (by me) for my projects (the serious one). 
+I'll be doing my school projects here. I think.
+
+Btw, I'm bored.
